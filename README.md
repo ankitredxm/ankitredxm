@@ -67,14 +67,9 @@ const ankit = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitredxm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-
+   <img height="170" src="https://streak-stats.demolab.com?user=ankitredxm&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitredxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
 
 
 ---
