@@ -1,83 +1,119 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Ankit Kumar
+# Hi 👋, I'm Ankit Kumar
 
-### 💻 Full Stack Developer • MERN Stack • Machine Learning
+### Full Stack Developer • MERN • Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Modern+Web+Apps;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
+<p>
+I'm passionate about building scalable web applications, exploring AI/ML,
+and continuously learning new technologies.
+</p>
 
 <p>
 <a href="https://github.com/ankitredxm">
-<img src="https://img.shields.io/github/followers/ankitredxm?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/ankitredxm?style=for-the-badge&logo=github&label=Follow"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=ankitredxm&style=for-the-badge&color=0ea5e9"/>
 
 <a href="https://www.linkedin.com/in/ankit3031">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💼 Full Stack Developer specializing in the **MERN Stack**
-- 🤖 Passionate about **Machine Learning** and **AI**
-- 🌱 Currently learning **Docker, AWS, and System Design**
-- 💡 I enjoy building scalable web applications and solving real-world problems
-- 📫 Reach me on **LinkedIn**
+```javascript
+const ankit = {
+    location: "India",
+    role: "Full Stack Developer",
+
+    expertise: [
+        "MERN Stack",
+        "REST APIs",
+        "Machine Learning"
+    ],
+
+    currentlyLearning: [
+        "AWS",
+        "Docker",
+        "System Design"
+    ],
+
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express",
+        "JavaScript"
+    ]
+}
+```
 
 ---
 
-## 🛠 Tech Stack
+# ⚒️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,python,java,docker,aws,git,github,linux,vscode,postman,tailwind&perline=9"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,python,java,docker,aws,git,github,linux,tailwind,vscode,postman&perline=9"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitredxm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitredxm&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitredxm&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitredxm&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitredxm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitredxm&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitredxm&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitredxm&theme=tokyo-night&hide_border=true"/>
-</p>
+| Project | Description |
+|----------|-------------|
+| 🌐 Portfolio | Personal portfolio website |
+| 💬 Chat Application | Real-time MERN chat app |
+| 🛒 E-Commerce | Full Stack shopping platform |
+| 🤖 ML Project | Machine Learning project |
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Learning
 
-- 🚀 MERN Stack
-- 🤖 Machine Learning
-- ☁️ AWS Cloud
+- ☁️ AWS
 - 🐳 Docker
 - ⚙️ DevOps
+- 🧠 System Design
 
 ---
 
-## 📫 Connect with Me
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -95,9 +131,8 @@
 
 <div align="center">
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+### ⭐ Thanks for visiting my profile!
 
-Thanks for visiting my profile! 🚀
+*"Building software that solves real problems."*
 
 </div>
-```
